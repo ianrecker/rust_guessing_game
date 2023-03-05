@@ -1,1 +1,1 @@
-/home/ianrecker/Documents/Coding-Projects/rust-programs/rust_guessing_game/target/debug/guessing_game: /home/ianrecker/Documents/Coding-Projects/rust-programs/rust_guessing_game/src/main.rs
+/Users/ian/Documents/Coding-Projects/rust_guessing_game/target/debug/guessing_game: /Users/ian/Documents/Coding-Projects/rust_guessing_game/src/main.rs
